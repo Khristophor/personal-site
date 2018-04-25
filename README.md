@@ -76,8 +76,11 @@ Two column layout:
 *Mobile*
 
 One column layout:
- - Five *recent posts*, newest first
- - Not sure if I should do older/newer links or pagination number buttons
+ - Post Content
+    - Title
+    - Date
+    - Tags
+    - Content
  - Collapsed *Biography*
    - Name, links to home page
    - Icon links to site profiles (Github and Twitter)
