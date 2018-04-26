@@ -25,6 +25,12 @@ One column layout:
 *All Sizes*
 - Footer, full width
   - Site url, copyright, links to tools (GatsbyJS, Netlify)
+- *Recent Post* item
+  - Date
+  - Tags (optional)
+  - Title
+  - Excerpt
+  - "Read More..." link to full post
   
 ### Posts Archive
 
